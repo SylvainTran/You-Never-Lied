@@ -1,0 +1,109 @@
+﻿title: Start
+---
+<<place Lyra CastleFrontyard Left>>
+<<place Player CastleFrontyard Front>>
+<<camera CastleFrontyard 1>>
+<<fadeIn>>
+<<wait 2>>
+
+<<set $tutorial_completed = false>>
+<<set $cleared_entrance = false>>
+
+Lyra: Are you just going to stand here?
+-> Calm down. I'm checking our surroundings.
+	Lyra: Really? I'm sure there's definitely nothing interesting in this area.
+-> What can I say? I like to admire the view.
+	Lyra: You're probably kidding, right?
+-> (I've done this before.) (Skip tutorial)
+	<<jump CastleEntrance>>
+
+<<fadeOut>>
+<<disableLocation CastleFrontyard>>
+<<camera ActionMoment1 1>>
+<<place Lyra ActionMoment1 Left>>
+<<place Player ActionMoment1 Right>>
+<<fadeIn>>
+
+Lyra: (Lyra looks in the distance). I'm glad we're in this together, you know.
+-> Me too.
+-> I just want to get this over with.
+-> (Say nothing.)
+
+Lyra: Look over there.
+Lyra: Let me handle it.
+
+<<shootTarget Lyra LoneGuard01>>
+<<set $lyra_kills_lone_guard to true>>
+
+Lyra: Look, another one. I've already used a bullet, so it's your turn.
+
+<<jump CastleEntrance>>
+
+===
+
+title: CastleEntrance
+---
+
+<<fadeOut>>
+<<disableLocation ActionMoment1>>
+<<camera CastleFrontyard2 1>>
+<<place Lyra CastleFrontyard2 Left>>
+<<place Player CastleFrontyard2 Right>>
+<<fadeIn>>
+
+Lyra: One heck of a castle.
+Lyra: How should we approach it?
+
+-> Go from the left.
+-> Go from the right.
+
+<<fadeOut>>
+<<fadeIn>>
+
+<<fadeOut>>
+<<disableLocation CastleFrontyard2>>
+<<place Lyra CastleGate1 Left>>
+<<place Player CastleGate1 Right>>
+<<camera CastleGate1 1>>
+<<fadeIn>>
+
+Lyra: Huh, it's locked.
+
+<<disableLocationCamera CastleGate1>>
+<<camera CastleGate1 2>>
+
+-> I found a key while you were behind.
+    <<jump AdmitFoundKey>>
+-> (Lie.) There's no way to unlock this gate. Let's split up, circle around the castle, and meet back here if we find a way in.
+	<<animCamera CastleGate1 1 10>>
+    <<disableAnimCamera CastleGate1 1>>
+    <<camera CastleGate1 1>>    
+    <<jump LieKeyMissing>>
+-> Let me think for a while.
+
+Player: TO BE CONTINUED.
+===
+
+title: AdmitFoundKey
+---
+Lyra: Wow, that's unbelievably good news. Why would anyone leave the keys to an important castle in the same room of the entrance?
+-> People do the same in real life, don't they?
+    Lyra: I don't know, do you do that in real life?
+        -> Yes, our door is mostly left open.
+            Lyra: I wish my family was that trusting.
+        -> No, I kinda live in a shady neighbourhood...
+            Lyra: Yes, that's understandable.
+-> It's a mystery to me as well.
+-> Because, people are optimistic, and lazy, Lyra.
+===
+
+title: LieKeyMissing
+---
+
+<<camera CastleGate1 1>>
+
+Lyra: Are you sure splitting up is a good idea? That's like, the BEST way to get killed in every horror movie...
+-> I saw a passage on the way here.
+-> Just trust me.
+-> It's just a gut feeling.
+===

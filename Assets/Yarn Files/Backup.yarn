@@ -1,0 +1,40 @@
+<<place Lyra CastleFrontyard Left>>
+<<place Player CastleFrontyard Front>>
+<<camera CastleFrontyard 1>>
+<<fadeIn>>
+<<wait 2>>
+
+<<set $tutorial_completed = false>>
+<<set $cleared_entrance = false>>
+
+Lyra: Are you just going to stand here?
+-> Calm down. I'm checking our surroundings.
+	Lyra: Really? I'm sure there's definitely nothing interesting in this area.
+-> What can I say? I like to admire the view.
+	Lyra: You're probably kidding, right?
+-> (I've done this before.) (Skip tutorial)
+	<<jump CastleEntrance>>
+
+<<fadeOut>>
+<<disableLocation CastleFrontyard>>
+<<camera ActionMoment1 1>>
+<<place Lyra ActionMoment1 Left>>
+<<place Player ActionMoment1 Right>>
+<<fadeIn>>
+
+Lyra: (Lyra looks in the distance). I'm glad we're in this together, you know.
+-> Me too.
+-> I just want to get this over with.
+-> (Say nothing.)
+
+Lyra: Look over there.
+Lyra: Let me handle it.
+
+<<shootTarget Lyra LoneGuard01>>
+<<set $lyra_kills_lone_guard to true>>
+
+Lyra: Look, another one. I've already used a bullet, so it's your turn.
+
+<<jump CastleEntrance>>
+
+===

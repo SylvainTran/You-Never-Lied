@@ -1,0 +1,285 @@
+fileFormatVersion: 2
+guid: 9f09d4305ad8c0b48846cde62cb86b06
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 94073015eacc34c1d8fc6786e43d60ca, type: 3}
+  LastImportHadImplicitStringIDs: 0
+  LastImportHadAnyStrings: 0
+  isSuccessfullyParsed: 0
+  parseErrorMessages:
+  - 'Assets/Yarn Files/Backup.yarn: 1:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 1:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 1:33: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 1:34: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 2:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 2:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 2:36: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 2:37: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 3:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 3:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 3:25: Error: token recognition error at: ''1'''
+  - 'Assets/Yarn Files/Backup.yarn: 3:26: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 3:27: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 4:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 4:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 4:8: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 4:9: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 5:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 5:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 5:7: Error: token recognition error at: ''2'''
+  - 'Assets/Yarn Files/Backup.yarn: 5:8: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 5:9: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 7:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 7:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 7:6: Error: token recognition error at: ''$'''
+  - 'Assets/Yarn Files/Backup.yarn: 7:26: Error: token recognition error at: ''='''
+  - 'Assets/Yarn Files/Backup.yarn: 7:33: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 7:34: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 8:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 8:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 8:6: Error: token recognition error at: ''$'''
+  - 'Assets/Yarn Files/Backup.yarn: 8:24: Error: token recognition error at: ''='''
+  - 'Assets/Yarn Files/Backup.yarn: 8:31: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 8:32: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 11:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 11:12: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 11:15: Error: token recognition error at: '''''''
+  - 'Assets/Yarn Files/Backup.yarn: 11:43: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 13:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 13:17: Error: token recognition error at: ''?'''
+  - 'Assets/Yarn Files/Backup.yarn: 13:44: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 15:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 15:3: Error: token recognition error at: ''('''
+  - 'Assets/Yarn Files/Backup.yarn: 15:5: Error: token recognition error at: '''''''
+  - 'Assets/Yarn Files/Backup.yarn: 15:25: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 15:26: Error: token recognition error at: '')'''
+  - 'Assets/Yarn Files/Backup.yarn: 15:28: Error: token recognition error at: ''('''
+  - 'Assets/Yarn Files/Backup.yarn: 15:42: Error: token recognition error at: '')'''
+  - 'Assets/Yarn Files/Backup.yarn: 16:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 16:2: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 16:22: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 16:23: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 18:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 18:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 18:9: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 18:10: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 19:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 19:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 19:33: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 19:34: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 20:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 20:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 20:23: Error: token recognition error at: ''1'''
+  - 'Assets/Yarn Files/Backup.yarn: 20:24: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 20:25: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 21:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 21:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 21:31: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 21:32: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 22:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 22:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 22:34: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 22:35: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 23:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 23:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 23:8: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 23:9: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 26:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 26:9: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 27:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 27:36: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 28:0: Error: token recognition error at: ''->'''
+  - 'Assets/Yarn Files/Backup.yarn: 28:3: Error: token recognition error at: ''('''
+  - 'Assets/Yarn Files/Backup.yarn: 28:15: Error: token recognition error at: ''.'''
+  - 'Assets/Yarn Files/Backup.yarn: 28:16: Error: token recognition error at: '')'''
+  - 'Assets/Yarn Files/Backup.yarn: 33:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 33:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 33:30: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 33:31: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 34:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 34:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 34:6: Error: token recognition error at: ''$'''
+  - 'Assets/Yarn Files/Backup.yarn: 34:36: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 34:37: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 38:0: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 38:1: Error: token recognition error at: ''<'''
+  - 'Assets/Yarn Files/Backup.yarn: 38:21: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 38:22: Error: token recognition error at: ''>'''
+  - 'Assets/Yarn Files/Backup.yarn: 40:0: Error: token recognition error at: ''='''
+  - 'Assets/Yarn Files/Backup.yarn: 40:1: Error: token recognition error at: ''='''
+  - 'Assets/Yarn Files/Backup.yarn: 40:2: Error: token recognition error at: ''='''
+  - "Assets/Yarn Files/Backup.yarn: 1:8: Error: missing HEADER_DELIMITER at 'Lyra'\r\n<<place
+    Lyra CastleFrontyard Left>>\r\r\n        ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 1:13: Error: missing HEADER_DELIMITER at 'CastleFrontyard'\r\n<<place
+    Lyra CastleFrontyard Left>>\r\r\n             ^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 1:29: Error: missing HEADER_DELIMITER at 'Left'\r\n<<place
+    Lyra CastleFrontyard Left>>\r\r\n                             ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 2:2: Error: missing HEADER_DELIMITER at 'place'\r\n<<place
+    Player CastleFrontyard Front>>\r\r\n  ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 2:8: Error: missing HEADER_DELIMITER at 'Player'\r\n<<place
+    Player CastleFrontyard Front>>\r\r\n        ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 2:15: Error: missing HEADER_DELIMITER at 'CastleFrontyard'\r\n<<place
+    Player CastleFrontyard Front>>\r\r\n               ^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 2:31: Error: missing HEADER_DELIMITER at 'Front'\r\n<<place
+    Player CastleFrontyard Front>>\r\r\n                               ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 3:2: Error: missing HEADER_DELIMITER at 'camera'\r\n<<camera
+    CastleFrontyard 1>>\r\r\n  ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 3:9: Error: missing HEADER_DELIMITER at 'CastleFrontyard'\r\n<<camera
+    CastleFrontyard 1>>\r\r\n         ^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 4:2: Error: missing HEADER_DELIMITER at 'fadeIn'\r\n<<fadeIn>>\r\r\n 
+    ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 5:2: Error: missing HEADER_DELIMITER at 'wait'\r\n<<wait
+    2>>\r\r\n  ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 7:2: Error: missing HEADER_DELIMITER at 'set'\r\n<<set
+    $tutorial_completed = false>>\r\r\n  ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 7:7: Error: missing HEADER_DELIMITER at 'tutorial_completed'\r\n<<set
+    $tutorial_completed = false>>\r\r\n       ^^^^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 7:28: Error: missing HEADER_DELIMITER at 'false'\r\n<<set
+    $tutorial_completed = false>>\r\r\n                            ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 8:2: Error: missing HEADER_DELIMITER at 'set'\r\n<<set
+    $cleared_entrance = false>>\r\r\n  ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 8:7: Error: missing HEADER_DELIMITER at 'cleared_entrance'\r\n<<set
+    $cleared_entrance = false>>\r\r\n       ^^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 8:26: Error: missing HEADER_DELIMITER at 'false'\r\n<<set
+    $cleared_entrance = false>>\r\r\n                          ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 10:0: Error: extraneous input 'Lyra' expecting
+    HEADER_DELIMITER\r\nLyra: Are you just going to stand here?\r\r\n^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:8: Error: missing HEADER_DELIMITER at 'down'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n        ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:14: Error: missing HEADER_DELIMITER at 'I'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n              ^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:16: Error: missing HEADER_DELIMITER at 'm'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n                ^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:18: Error: missing HEADER_DELIMITER at 'checking'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n                  ^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:27: Error: missing HEADER_DELIMITER at 'our'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n                           ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 11:31: Error: missing HEADER_DELIMITER at 'surroundings'\r\n->
+    Calm down. I'm checking our surroundings.\r\r\n                              
+    ^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 12:1: Error: Unexpected \"<indent to 8>\" while
+    reading a header\r\n\tLyra: Really? I'm sure there's definitely nothing interesting
+    in this area.\r\r\n \r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:0: Error: extraneous input '<dedent from 8>'
+    expecting {ID, '---'}\r\n-> What can I say? I like to admire the view.\r\r\n\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:8: Error: missing HEADER_DELIMITER at 'can'\r\n->
+    What can I say? I like to admire the view.\r\r\n        ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:12: Error: missing HEADER_DELIMITER at 'I'\r\n->
+    What can I say? I like to admire the view.\r\r\n            ^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:14: Error: missing HEADER_DELIMITER at 'say'\r\n->
+    What can I say? I like to admire the view.\r\r\n              ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:19: Error: missing HEADER_DELIMITER at 'I'\r\n->
+    What can I say? I like to admire the view.\r\r\n                   ^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:21: Error: missing HEADER_DELIMITER at 'like'\r\n->
+    What can I say? I like to admire the view.\r\r\n                     ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:26: Error: missing HEADER_DELIMITER at 'to'\r\n->
+    What can I say? I like to admire the view.\r\r\n                          ^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:29: Error: missing HEADER_DELIMITER at 'admire'\r\n->
+    What can I say? I like to admire the view.\r\r\n                            
+    ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:36: Error: missing HEADER_DELIMITER at 'the'\r\n->
+    What can I say? I like to admire the view.\r\r\n                                   
+    ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 13:40: Error: missing HEADER_DELIMITER at 'view'\r\n->
+    What can I say? I like to admire the view.\r\r\n                                       
+    ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 14:1: Error: Unexpected \"<indent to 8>\" while
+    reading a header\r\n\tLyra: You're probably kidding, right?\r\r\n \r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:0: Error: extraneous input '<dedent from 8>'
+    expecting {ID, '---'}\r\n-> (I've done this before.) (Skip tutorial)\r\r\n\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:6: Error: missing HEADER_DELIMITER at 've'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n      ^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:9: Error: missing HEADER_DELIMITER at 'done'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n         ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:14: Error: missing HEADER_DELIMITER at 'this'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n              ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:19: Error: missing HEADER_DELIMITER at 'before'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n                   ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:29: Error: missing HEADER_DELIMITER at 'Skip'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n                             ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 15:34: Error: missing HEADER_DELIMITER at 'tutorial'\r\n->
+    (I've done this before.) (Skip tutorial)\r\r\n                                 
+    ^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 16:1: Error: Unexpected \"<indent to 8>\" while
+    reading a header\r\n\t<<jump CastleEntrance>>\r\r\n \r\n"
+  - "Assets/Yarn Files/Backup.yarn: 16:8: Error: missing HEADER_DELIMITER at 'CastleEntrance'\r\n\t<<jump
+    CastleEntrance>>\r\r\n        ^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 17:0: Error: Unexpected \"<dedent from 8>\" while
+    reading a header\r\n\r\r\n\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 19:2: Error: missing HEADER_DELIMITER at 'disableLocation'\r\n<<disableLocation
+    CastleFrontyard>>\r\r\n  ^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 19:18: Error: missing HEADER_DELIMITER at 'CastleFrontyard'\r\n<<disableLocation
+    CastleFrontyard>>\r\r\n                  ^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 20:2: Error: missing HEADER_DELIMITER at 'camera'\r\n<<camera
+    ActionMoment1 1>>\r\r\n  ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 20:9: Error: missing HEADER_DELIMITER at 'ActionMoment1'\r\n<<camera
+    ActionMoment1 1>>\r\r\n         ^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 21:2: Error: missing HEADER_DELIMITER at 'place'\r\n<<place
+    Lyra ActionMoment1 Left>>\r\r\n  ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 21:8: Error: missing HEADER_DELIMITER at 'Lyra'\r\n<<place
+    Lyra ActionMoment1 Left>>\r\r\n        ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 21:13: Error: missing HEADER_DELIMITER at 'ActionMoment1'\r\n<<place
+    Lyra ActionMoment1 Left>>\r\r\n             ^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 21:27: Error: missing HEADER_DELIMITER at 'Left'\r\n<<place
+    Lyra ActionMoment1 Left>>\r\r\n                           ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 22:2: Error: missing HEADER_DELIMITER at 'place'\r\n<<place
+    Player ActionMoment1 Right>>\r\r\n  ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 22:8: Error: missing HEADER_DELIMITER at 'Player'\r\n<<place
+    Player ActionMoment1 Right>>\r\r\n        ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 22:15: Error: missing HEADER_DELIMITER at 'ActionMoment1'\r\n<<place
+    Player ActionMoment1 Right>>\r\r\n               ^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 22:29: Error: missing HEADER_DELIMITER at 'Right'\r\n<<place
+    Player ActionMoment1 Right>>\r\r\n                             ^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 23:2: Error: missing HEADER_DELIMITER at 'fadeIn'\r\n<<fadeIn>>\r\r\n 
+    ^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 25:0: Error: extraneous input 'Lyra' expecting
+    HEADER_DELIMITER\r\nLyra: (Lyra looks in the distance). I'm glad we're in this
+    together, you know.\r\r\n^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 26:6: Error: missing HEADER_DELIMITER at 'too'\r\n->
+    Me too.\r\r\n      ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:3: Error: missing HEADER_DELIMITER at 'I'\r\n->
+    I just want to get this over with.\r\r\n   ^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:5: Error: missing HEADER_DELIMITER at 'just'\r\n->
+    I just want to get this over with.\r\r\n     ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:10: Error: missing HEADER_DELIMITER at 'want'\r\n->
+    I just want to get this over with.\r\r\n          ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:15: Error: missing HEADER_DELIMITER at 'to'\r\n->
+    I just want to get this over with.\r\r\n               ^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:18: Error: missing HEADER_DELIMITER at 'get'\r\n->
+    I just want to get this over with.\r\r\n                  ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:22: Error: missing HEADER_DELIMITER at 'this'\r\n->
+    I just want to get this over with.\r\r\n                      ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:27: Error: missing HEADER_DELIMITER at 'over'\r\n->
+    I just want to get this over with.\r\r\n                           ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 27:32: Error: missing HEADER_DELIMITER at 'with'\r\n->
+    I just want to get this over with.\r\r\n                                ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 28:4: Error: missing HEADER_DELIMITER at 'Say'\r\n->
+    (Say nothing.)\r\r\n    ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 28:8: Error: missing HEADER_DELIMITER at 'nothing'\r\n->
+    (Say nothing.)\r\r\n        ^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 30:0: Error: extraneous input 'Lyra' expecting
+    HEADER_DELIMITER\r\nLyra: Look over there.\r\r\n^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 33:14: Error: missing HEADER_DELIMITER at 'Lyra'\r\n<<shootTarget
+    Lyra LoneGuard01>>\r\r\n              ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 33:19: Error: missing HEADER_DELIMITER at 'LoneGuard01'\r\n<<shootTarget
+    Lyra LoneGuard01>>\r\r\n                   ^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 34:2: Error: missing HEADER_DELIMITER at 'set'\r\n<<set
+    $lyra_kills_lone_guard to true>>\r\r\n  ^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 34:7: Error: missing HEADER_DELIMITER at 'lyra_kills_lone_guard'\r\n<<set
+    $lyra_kills_lone_guard to true>>\r\r\n       ^^^^^^^^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 34:29: Error: missing HEADER_DELIMITER at 'to'\r\n<<set
+    $lyra_kills_lone_guard to true>>\r\r\n                             ^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 34:32: Error: missing HEADER_DELIMITER at 'true'\r\n<<set
+    $lyra_kills_lone_guard to true>>\r\r\n                                ^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 36:0: Error: extraneous input 'Lyra' expecting
+    HEADER_DELIMITER\r\nLyra: Look, another one. I've already used a bullet, so it's
+    your turn.\r\r\n^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 38:7: Error: missing HEADER_DELIMITER at 'CastleEntrance'\r\n<<jump
+    CastleEntrance>>\r\r\n       ^^^^^^^^^^^^^^\r\n"
+  - "Assets/Yarn Files/Backup.yarn: 40:3: Error: Unexpected \"<EOF>\" while reading
+    a header\r\n===\r\n   \r\n"
